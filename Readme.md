@@ -1,7 +1,4 @@
-# **3DCV HW3**
-Name: 吳泓毅  
-Department: NTU CSIE  
-Student ID: R11922029 
+# **Visual Odometry**
 
 
 ## **Method in each step**
