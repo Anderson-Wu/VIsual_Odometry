@@ -51,8 +51,8 @@ frame_0024.png|frame_0475.png
 
 ## **Build environment**
 ```shell
-conda create --name 3dcvhw3 python=3.8 
-conda activate 3dcvhw3
+conda create --name VO python=3.8 
+conda activate VO
 pip install -r requirements.txt 
 ```
 
